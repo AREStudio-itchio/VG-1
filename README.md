@@ -30,7 +30,8 @@ El juego es totalmente **open source**. Puedes revisar el código en la carpeta 
 
 Si solo quieres jugar:
 
-➡️ [Haz clic aquí para descargar el juego (ZIP)](./release/VG1-Windows.zip)
+➡️ [Haz clic aquí para descargar el juego (ZIP)](https://github.com/user-attachments/files/21672002/VG.1.zip)
+
 
 ---
 
