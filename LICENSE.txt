@@ -1,1 +1,3 @@
 VG 1 © 2025 by AREStudio is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/ 
+
+Software used: https://github.com/l-urk/Bat-To-Exe-Converter-64-Bit/blob/main/LICENSE
